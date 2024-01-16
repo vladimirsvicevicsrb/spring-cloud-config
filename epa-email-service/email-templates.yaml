@@ -1,9 +1,0 @@
----
-templateId: test-1
-subject: this is test-1 subject
-content: |
-  "{{content}}
-  -------
-  This is a footer provided by the insurance"
----
-
