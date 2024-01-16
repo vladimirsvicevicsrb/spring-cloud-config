@@ -1,0 +1,6 @@
+subjects:
+  - templateId: templ-1
+    content: This is a subject for templ-1 test
+  - templateId: templ-2
+    content: This is a subject for templ-2 test v2
+defaultSubject: This is a default subject
