@@ -2,5 +2,5 @@ subjects:
   - templateId: templ-1
     content: This is a subject for templ-1
   - templateId: templ-2
-    content: This is a subject for templ-2
-defaultSubject: This is a default subject 
+    content: This is a subject for templ-2 hey
+defaultSubject: This is a default subject
