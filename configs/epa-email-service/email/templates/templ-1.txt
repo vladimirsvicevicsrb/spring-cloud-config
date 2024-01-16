@@ -1,1 +1,1 @@
-{{templateStuff}} yes
+{{templateStuff}}
